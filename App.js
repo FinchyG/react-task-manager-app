@@ -108,7 +108,7 @@ const App = () => {
   return (
     <div style={styles.appStyles}>
       <Header
-        textContent="Task Scheduler"
+        textContent="Task Manager"
       />
       <main
         style={styles.mainStyles}
